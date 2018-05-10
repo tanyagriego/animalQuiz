@@ -14,3 +14,4 @@ answerThree.innerHTML = questions.first.possibleAnswer[2];
 
 const answerFour = document.getElementById('answerFourLabel');
 answerFour.innerHTML = questions.first.possibleAnswer[3];
+
